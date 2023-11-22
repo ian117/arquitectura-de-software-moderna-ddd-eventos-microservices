@@ -14,6 +14,7 @@
 ❇️ **Aggregates**
 + Grupos de entidades y value objects
 + Separan conceptos diferentes de nuestro dominio
++ Tendrán **algo así** como una **API** (que es la raíz del aggregate) que es por donde pasarán las **interacciones** con **otros aggregates**
 
 
 ✅ Como regla general, la comunicación entre distinros aggregates se debe hacer a **traves de la raíz** de los mismos. Una raíz no puede acceder a otro elemento no raíz de un aggregate diferente.
