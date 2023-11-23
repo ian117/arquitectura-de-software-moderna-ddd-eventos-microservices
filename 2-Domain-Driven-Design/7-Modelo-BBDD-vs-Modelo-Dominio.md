@@ -80,9 +80,9 @@ Una de ellas es la **implementación** y **nivel de acceso** de las **variables*
     + Tenemos funciones que controlan el ciclo de vida (en este caso) del dominio del partido de tenis (start, finsh...)
 .
 
-En sí en todo el código se busca plasmar:
+➡️ En sí en todo el código se busca plasmar:
 
-+ ✅ Una **representacion** del **dominio**. En este caso, del partido de tenis.
++ ✅ Una **representacion** fiel del **dominio**. En este caso, del partido de tenis.
 
 + ✅ Una **manera** en la que las **acciones** que podemos realizar sobre las **entidades** estén **perfectamente controladas**
 
@@ -259,4 +259,19 @@ Sobre Enums que son objetos de valores
 
 Sobre errores que son clean code
 
-##### Aggregates
+#### Aggregates
+
+En este ejemplo, se forma un aggregate conformado por
+
++ TennisMatch (**Raíz**)
++ TennisSet (Entidad Secundaria)
++ Status (Objeto de valor)
+
+
+Otro aggregate sería
+
++ Player  (**Raíz**)
+
+###### Comunicación entre aggregates
+
+Haciendo esto que si queremos que exista  **comunicación** entre los **agregates** sería a travez de: **Player** y **TennisMatch**
