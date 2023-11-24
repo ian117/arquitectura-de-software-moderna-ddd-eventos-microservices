@@ -53,7 +53,7 @@ Esta capa _**puede**_ tener detalles de la interfaz de usuario, pero _**no tiene
 
 + Es la fachada e interactúa con los servicios de la aplicacion para iniciar con los casos de uso
 
-+ Serían los Controladores en la mayoría de los frameworks (Spring, Express, NestJs, etc)
++ Serían los **Controladores** en la mayoría de los frameworks (Spring, Express, NestJs, etc)
 
 
 
