@@ -15,17 +15,15 @@ Son **entidades inmutables**
 
 ### Representación Visual
 
-Aquí vemos que en un sistema tradicional siempre veremos el estado **final / actual** de un **sistema**
+Aquí vemos que en un **sistema tradicional** siempre veremos el estado **final / actual** de un **sistema**
+![](/images/4-Events/Screenshot%20Capture%20-%202023-11-27%20-%2023-46-21.png)
 
 
 En cambio en una **representación** con **eventos** vamos a ver el **paso a paso** que existió en las acciones. 
 
+![](/images/4-Events/Screenshot%20Capture%20-%202023-11-27%20-%2023-46-34.png)
+
 En este caso en la elección de un usuario para agregar items al carrito de compras
-
-
-IMagen1
-IMagen2
-
 
 
 ### Dónde Aplicar Eventos
