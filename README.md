@@ -18,3 +18,6 @@ I do not gain any finantial profit from this project directly or indirectly._
 >**_This work was only made to learn to morally and practically be a better engineer._**
 
 ----
+
+
+**_La única forma de convertirte en experto en algo es probando tú mismo y equivocandote muchas veces_**
